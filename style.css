@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background: linear-gradient(to right, crimson,black);
+    top: 15%;
+    
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Cinzel', serif;
+    font-size: 3.6em;
+    color: dimgrey;
+    letter-spacing: .4em;
+}
+
+h2{
+    text-transform: uppercase;
+    font-family: 'Cinzel', serif;
+    font-size: 2em;
+    color: dimgrey;
+    letter-spacing: .3em;
+    text-align: center;
+
+}
